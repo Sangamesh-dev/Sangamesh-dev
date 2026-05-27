@@ -111,11 +111,11 @@ class SangameshDandin:
 
 <div align="center">
 
-![Sangamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangamesh-dev&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)
+![Sangamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangamesh-dev&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=1800)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Sangamesh-dev&theme=shadow_green&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sangamesh-dev&theme=shadow_green&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamesh-dev&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamesh-dev&theme=shadow_green&hide_border=false&layout=compact&cache_seconds=1800)
 
 </div>
 
