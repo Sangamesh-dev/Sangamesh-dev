@@ -111,11 +111,11 @@ class SangameshDandin:
 
 <div align="center">
 
-![Sangamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangamesh-dev&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=1800)
+![Sangamesh's GitHub Stats](https://readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sangamesh-dev&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sangamesh-dev&theme=shadow_green&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamesh-dev&theme=shadow_green&hide_border=false&layout=compact&cache_seconds=1800)
+![Top Languages](https://readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sangamesh-dev&theme=shadow_green&hide_border=false&layout=compact)
 
 </div>
 
@@ -125,7 +125,7 @@ class SangameshDandin:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Sangamesh-dev&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Sangamesh-dev&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
