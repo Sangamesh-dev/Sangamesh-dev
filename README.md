@@ -111,21 +111,17 @@ class SangameshDandin:
 
 <div align="center">
 
-![Sangamesh's GitHub Stats](https://readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sangamesh-dev&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sangamesh-dev&theme=shadow_green&hide_border=false)
-
-![Top Languages](https://readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sangamesh-dev&theme=shadow_green&hide_border=false&layout=compact)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Sangamesh-dev&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sangamesh-dev&theme=react-dark&hide_border=true&area=true&color=00ff88&line=00ff88&point=ffffff)
 
 </div>
 
