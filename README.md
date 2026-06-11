@@ -1,166 +1,440 @@
+<!-- ====================== HEADER ====================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,17,20,24&text=Sangamesh%20Girish%20Dandin&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=AI%20%2B%20Cybersecurity%20Engineer%20%7C%20Full%20Stack%20Builder%20%7C%20Security%20Researcher&descSize=18&descAlignY=58&animation=fadeIn" />
 
-# Sangamesh Girish Dandin
-### AI Security Engineer · LLM Defense · Malware Intelligence · Penetration Testing
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-sangamesh--dev.github.io-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://sangamesh-dev.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangamesh-girish-dandin-553b45247/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sangameshd_)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangameshs2003@gmail.com)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-n0xvector-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/n0xvector)
+<a href="https://github.com/Sangamesh-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+AI+%2F+ML+Practitioner;Offensive+Security+%2B+Bug+Bounty+Researcher;Full+Stack+Product+Engineer;MSc+Artificial+Intelligence+%40+NCI+Dublin" alt="Typing SVG" />
+</a>
 
 <br/>
 
-> *I build intelligent systems that find, fight, and fix threats — where machine learning meets offensive security.*
+![MSc AI](https://img.shields.io/badge/MSc-Artificial%20Intelligence-6D28D9?style=for-the-badge&logo=academia&logoColor=white)
+![National College of Ireland](https://img.shields.io/badge/National%20College%20of%20Ireland-Dublin-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white)
+![IEEE Published](https://img.shields.io/badge/IEEE-Published%20Author-7C3AED?style=for-the-badge&logo=ieee&logoColor=white)
+
+<br/>
+
+![Location](https://img.shields.io/badge/Based%20in-Dublin%2C%20Ireland-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white)
+
+<br/>
+
+<a href="https://sangamesh-dev.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sangamesh-girish-dandin-553b45247/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sangameshs2003@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Reach%20Out-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Sangamesh-dev">
+  <img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sangamesh-dev&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Sangamesh-dev?style=for-the-badge&color=4F46E5&labelColor=1a1b27&logo=github&logoColor=white&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/Sangamesh-dev?style=for-the-badge&color=7C3AED&labelColor=1a1b27&logo=github&logoColor=white&label=STARS" />
 
 </div>
 
 ---
 
-## 👤 About Me
+<!-- ====================== ABOUT ====================== -->
+## 🧠 About
 
-```python
-class SangameshDandin:
-    role       = "AI Security Engineer"
-    location   = "Dublin, Ireland 🇮🇪"
-    degree     = "MSc Artificial Intelligence @ NCI Dublin (2026–2027)"
-    alias      = "n0xvector"  # Bugcrowd
+I am a software engineer working at the intersection of **applied AI/ML** and **offensive security**, with a strong product-engineering mindset. I design and ship full-stack systems end to end — from data pipelines and model serving to authenticated APIs, background workers, and clean React frontends — and I care as much about reliability and security posture as I do about features.
 
-    focus = [
-        "Adversarial ML & LLM Defense",
-        "Malware Classification & Threat Intelligence",
-        "AI-Powered Penetration Testing",
-        "SOC Automation & CVE Analysis",
-    ]
+My core focus is building **practical, deployable systems**: LLM-powered automation, ML detection engines, and security tooling that solves real problems rather than demos. I currently pursue an **MSc in Artificial Intelligence at the National College of Ireland (Dublin)**, hold an **IEEE publication**, and operate as an active **security researcher and bug bounty hunter** across HackerOne and Bugcrowd.
 
-    currently = [
-        "Building enterprise AI security tools (PhishNet AI, NetSentinel)",
-        "Pursuing PNPT certification via TCM Security",
-        "Hunting bugs on Bugcrowd as n0xvector",
-        "Open to internships in Dublin (AI/ML & Cybersecurity)",
-    ]
+I move fast from idea to working product, write maintainable code, and obsess over the details that make software feel engineered rather than assembled.
 
-    publication = "AlertSphere — IEEE ICAMIDA 2025 · DOI: 10.1109/ICAMIDA64673.2025.11209472"
-```
+> **🟣 Open To:** AI/ML Engineering · Software Engineering · Security Engineering · Graduate & Internship roles (Dublin / EU / Remote)
 
 ---
 
-## 🛡️ Security Research & Projects
+<!-- ====================== TECH STACK ====================== -->
+## 🛠️ Tech Stack
 
-| Project | Stack | Highlight |
-|---------|-------|-----------|
-| **[ByteHunter](https://github.com/Sangamesh-dev/ByteHunter)** — AI Malware Classifier | LightGBM · XGBoost · SHAP · LIEF · FastAPI · Docker | 89.67% accuracy on EMBER 2018, 2381-dim PE feature vector |
-| **[ZeroTrace AI](https://github.com/Sangamesh-dev)** — Threat Intel Platform | XGBoost · FAISS · Groq · NVD · CISA KEV | CVE ingestion from 3 authoritative feeds + exploit prediction |
-| **[RedTeam Copilot](https://github.com/Sangamesh-dev/redteam-copilot)** — AI Pentest Assistant | Groq · Nmap · Shodan · Supabase · FastAPI · React | OSINT → Port Scan → CVE Match → PDF Report pipeline |
-| **[ZeroInject Shield](https://github.com/Sangamesh-dev/ZeroInject)** — Prompt Injection Defense | FastAPI · Groq LLaMA · Multi-Agent · React · Docker | 6-stage zero-trust LLM middleware + JailbreakBench benchmarked |
-| **[SpearSim](https://github.com/Sangamesh-dev/SpearSim)** — Phishing Simulation Platform | FastAPI · Groq · Supabase · SendGrid · React · GDPR | GDPR-compliant, multi-tenant RBAC, live click tracking |
-| **[MailGuard AI](https://github.com/Sangamesh-dev)** — Email Impersonation Detector | NLP · Stylometry · SPF/DKIM/DMARC · Chrome Extension | 72% accuracy · 84% precision on impersonation detection |
-| **[TriageAI](https://github.com/Sangamesh-dev)** — SOC Alert Triage Engine | FAISS · MITRE ATT&CK · Groq · FastAPI · React | Deduplicates SIEM alerts, maps to ATT&CK, scores with LLM |
-| **[VulnXploit Scanner](https://github.com/Sangamesh-dev/VulnXploit)** | Python · Flask · Nmap | 65,000+ port scanning + real-time CVE matching |
-| **[Predictive Patch Scheduler](https://github.com/Sangamesh-dev/Predictive-Patch-Scheduler)** | Random Forest · FastAPI · CVSS | ~35% improvement in patch prioritization accuracy |
+**Languages**
 
----
+![Python](https://skillicons.dev/icons?i=python)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Bash](https://skillicons.dev/icons?i=bash)
+![SQL](https://skillicons.dev/icons?i=mysql)
 
-## 💻 Tech Stack
+**Frontend**
 
-### Languages & Scripting
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Vite](https://skillicons.dev/icons?i=vite)
 
-### AI & Machine Learning
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+**Backend & Databases**
 
-### Infrastructure & DevOps
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Flask](https://skillicons.dev/icons?i=flask)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Redis](https://skillicons.dev/icons?i=redis)
+![Supabase](https://skillicons.dev/icons?i=supabase)
 
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+**Cloud, DevOps & Tooling**
 
-### Security Tooling
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![scikit-learn](https://skillicons.dev/icons?i=sklearn)
 
 ---
 
-## 📊 GitHub Stats
+<!-- ====================== AI / ML EXPERTISE ====================== -->
+## 🤖 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+| :--- | :---: | :--- |
+| **LLM Applications & Agents** | ⭐⭐⭐⭐⭐ | RAG pipelines, multi-LLM consensus, agentic recon-to-report systems, prompt-injection defense, Groq / LLaMA serving |
+| **Machine Learning** | ⭐⭐⭐⭐⭐ | LightGBM / XGBoost classifiers, SHAP explainability, feature engineering, CRISP-DM workflows |
+| **Graph Neural Networks** | ⭐⭐⭐⭐ | Temporal GNNs (GraphSAGE / GAT), lateral-movement detection in Active Directory |
+| **Security ML** | ⭐⭐⭐⭐⭐ | Malware classification, SOC alert triage, MITRE ATT&CK mapping, stylometric detection |
+| **Data Engineering** | ⭐⭐⭐⭐ | FAISS vector search, ETL/ingestion pipelines, NVD / CISA KEV / ExploitDB intelligence feeds |
+| **MLOps & Deployment** | ⭐⭐⭐⭐ | FastAPI model serving, Docker Compose, Celery/Redis background jobs, WebSocket streaming |
+
+---
+
+<!-- ====================== FEATURED PROJECTS ====================== -->
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🛡️ ByteHunter — ML Malware Classification Engine</b></summary>
+
+<br/>
+
+A production-grade malware detection system built end to end following the CRISP-DM methodology, combining gradient-boosted models with explainability so analysts can trust and audit every verdict.
+
+| Aspect | Detail |
+| :--- | :--- |
+| **Stack** | LightGBM · XGBoost · SHAP · FastAPI · React · Docker |
+| **Scale** | EMBER 2018 + BIG-2015 datasets |
+| **Performance** | 89.67% classification accuracy |
+| **Security** | Static feature extraction, sandboxed analysis pipeline |
+| **Impact** | IEEE-format paper + architecture diagrams, academic-grade submission |
+| **Repository** | [View Code »](https://github.com/Sangamesh-dev) |
+
+Engineered as a reproducible research artifact: clean train/serve separation, SHAP-driven interpretability for every prediction, and a containerized API for real-world deployment.
+
+</details>
+
+<details>
+<summary><b>🎯 RedTeam Copilot — Agentic Recon-to-Report Pipeline</b></summary>
+
+<br/>
+
+An autonomous offensive-security assistant that chains reconnaissance, analysis, and reporting into a single agentic workflow, turning raw recon data into structured, actionable pentest output.
+
+| Aspect | Detail |
+| :--- | :--- |
+| **Stack** | Groq · Supabase · React · FastAPI · Vercel / Render |
+| **Scale** | Multi-stage agent orchestration |
+| **Performance** | Live hosted, sub-second LLM inference via Groq |
+| **Security** | Scoped recon, sanitized tool I/O, auth-gated access |
+| **Impact** | Live demo: [redteam-copilot.vercel.app](https://redteam-copilot.vercel.app) |
+| **Repository** | [View Code »](https://github.com/Sangamesh-dev) |
+
+Demonstrates practical agent design: deterministic tool boundaries, persistent state, and a polished UI that makes complex offensive workflows approachable.
+
+</details>
+
+<details>
+<summary><b>🧪 TriageAI — LLM-Powered SOC Alert Triage</b></summary>
+
+<br/>
+
+A security-operations engine that ingests alerts, retrieves context with vector search, maps activity to MITRE ATT&CK, and produces analyst-ready triage decisions to cut alert fatigue.
+
+| Aspect | Detail |
+| :--- | :--- |
+| **Stack** | FAISS · Groq · Supabase · FastAPI · MITRE ATT&CK |
+| **Scale** | High-volume alert ingestion |
+| **Performance** | Hardened across 5 audit rounds (26 bugs fixed) |
+| **Security** | RBAC, sanitized prompts, framework-mapped detections |
+| **Impact** | Deployed, analyst-facing triage workflow |
+| **Repository** | [View Code »](https://github.com/Sangamesh-dev) |
+
+Built with reliability in mind — repeated security audits, structured retrieval, and explainable ATT&CK mappings rather than opaque LLM verdicts.
+
+</details>
+
+<details>
+<summary><b>🎣 SpearSim — GDPR-Compliant Phishing Simulation Platform</b></summary>
+
+<br/>
+
+A full lifecycle phishing-simulation platform for security awareness, built privacy-first with proper auth, background job processing, and managed email delivery.
+
+| Aspect | Detail |
+| :--- | :--- |
+| **Stack** | FastAPI · Groq LLaMA3 · React · Supabase · SendGrid · Redis · Celery |
+| **Scale** | Campaign orchestration with async workers |
+| **Performance** | Redis/Celery background processing |
+| **Security** | Auth + RBAC, GDPR-compliant data handling |
+| **Impact** | Full dev lifecycle, deployed on Vercel / Railway |
+| **Repository** | [View Code »](https://github.com/Sangamesh-dev) |
+
+A complete product, not a prototype: authentication, role separation, queue-backed sending, and a compliant data model designed for real organizational use.
+
+</details>
+
+<details>
+<summary><b>🧱 ZeroInject Shield — Multi-LLM Prompt Injection Defense</b></summary>
+
+<br/>
+
+Middleware that defends LLM applications against prompt injection using a multi-model consensus layer, sitting transparently between users and downstream models.
+
+| Aspect | Detail |
+| :--- | :--- |
+| **Stack** | FastAPI · Groq · React |
+| **Scale** | Multi-LLM consensus voting |
+| **Performance** | Real-time inline filtering |
+| **Security** | Injection detection, policy enforcement, defense-in-depth |
+| **Impact** | IEEE paper + system design docs, published technical blog on dev.to |
+| **Repository** | [View Code »](https://github.com/Sangamesh-dev) |
+
+Tackles one of the hardest problems in applied LLM security with a pragmatic ensemble approach and a clean integration story for existing apps.
+
+</details>
+
+<details>
+<summary><b>🔎 ZeroTrace AI — CVE Intelligence Platform</b></summary>
+
+<br/>
+
+A real-time vulnerability-intelligence platform that ingests multiple threat feeds, predicts exploitability, and surfaces live updates to defenders.
+
+| Aspect | Detail |
+| :--- | :--- |
+| **Stack** | XGBoost · FAISS · Groq · FastAPI · WebSocket · Docker Compose |
+| **Scale** | NVD + CISA KEV + ExploitDB ingestion |
+| **Performance** | Live WebSocket updates, predictive exploit scoring |
+| **Security** | Threat-intel correlation, prioritized remediation signals |
+| **Impact** | Containerized, deployable intelligence stack |
+| **Repository** | [View Code »](https://github.com/Sangamesh-dev) |
+
+Combines ML-based exploit prediction with semantic search and streaming updates to make CVE noise actionable.
+
+</details>
+
+---
+
+<!-- ====================== EXPERIENCE ====================== -->
+## 💼 Experience
+
+### Security Researcher · Bug Bounty Hunter — `n0xvector`
+**HackerOne · Bugcrowd** — *Independent · Ongoing*
+
+Active vulnerability researcher operating across leading bug bounty platforms, with confirmed findings submitted to multiple enterprise programs.
+
+- Conduct structured recon and analysis across web and API attack surfaces before committing to targets, prioritizing programs by payout history and hacktivity.
+- Built an advanced automated hunting environment integrating Claude Code MCP with 150+ security tools (Shodan, sqlmap, ffuf, nuclei, subfinder, JWT tooling).
+- Submitted confirmed findings to programs including Privy, Sorare, eToro, Playtika, and others, with immediate, evidence-backed reporting.
+
+`Offensive Security` `Web/API Pentesting` `Recon Automation` `Responsible Disclosure`
+
+---
+
+### AI / ML Engineering Intern
+**CodeClause** — *Internship*
+
+Delivered multiple applied ML projects spanning computer vision, NLP, and predictive modeling, shipping reproducible notebooks and deployable pipelines.
+
+- Built an Image Caption Generator, Speech Emotion Recognition model, and predictive analytics projects (Uber data analysis, loan prediction).
+- Owned the full ML workflow: data preparation, feature engineering, model training, evaluation, and documentation.
+
+`Python` `Machine Learning` `Deep Learning` `Data Analysis`
+
+---
+
+<!-- ====================== ACHIEVEMENTS ====================== -->
+## 🏅 Achievements
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sangamesh-dev&theme=shadow_green&hide_border=false)
+| Recognition | Details |
+| :--- | :--- |
+| 📄 **IEEE Publication** | *AlertSphere* — ICAMIDA 2025 · DOI: 10.1109/ICAMIDA64673.2025.11209472 |
+| 🐛 **Confirmed Bug Bounty Findings** | Validated reports across multiple enterprise programs on HackerOne & Bugcrowd |
+| 🎓 **MSc Artificial Intelligence** | National College of Ireland, Dublin |
+| ✍️ **Published Technical Author** | dev.to article on prompt-injection detection (ZeroInject Shield) |
+| 🤝 **Student Chapter Leadership** | Leadership roles in ACM & IEEE student chapters |
 
 </div>
 
 ---
 
+<!-- ====================== CERTIFICATIONS ====================== -->
+## 📜 Certifications
+
+**TCM Security**
+
+![PNPT](https://img.shields.io/badge/PNPT-In%20Progress-6D28D9?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+**AWS**
+
+![AWS Cloud](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+**Oracle**
+
+![Oracle AI](https://img.shields.io/badge/Oracle-AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**NPTEL**
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Machine%20Learning-4F46E5?style=for-the-badge&logo=google-scholar&logoColor=white)
+
+**Cisco**
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+<!-- ====================== CODING PROFILES ====================== -->
+## ⚔️ Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="40" />
+</a>
+<a href="https://www.geeksforgeeks.org/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="40" />
+</a>
+<a href="https://www.hackerrank.com/">
+  <img src="https://img.shields.io/badge/HackerRank-Compete-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" height="40" />
+</a>
+<a href="https://www.codechef.com/">
+  <img src="https://img.shields.io/badge/CodeChef-Rank-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="40" />
+</a>
+
+</div>
+
+---
+
+<!-- ====================== GITHUB ANALYTICS ====================== -->
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sangamesh-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=6D28D9&text_color=c9d1d9&bg_color=0d1117" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Sangamesh-dev&hide_border=true&background=0d1117&stroke=8B5CF6&ring=6D28D9&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamesh-dev&layout=compact&hide_border=true&langs_count=8&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" />
+
+</div>
+
+---
+
+<!-- ====================== TROPHIES ====================== -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sangamesh-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+</div>
+
+---
+
+<!-- ====================== CONTRIBUTION ACTIVITY ====================== -->
 ## 📈 Contribution Activity
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sangamesh-dev&theme=react-dark&hide_border=true&area=true&color=00ff88&line=00ff88&point=ffffff)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sangamesh-dev&theme=react-dark&bg_color=0d1117&color=8B5CF6&line=6D28D9&point=c9d1d9&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-## 📜 Certifications
-
-| Certification | Issuer | Status |
-|--------------|--------|--------|
-| 🔴 PNPT — Practical Network Penetration Tester | TCM Security | In Progress |
-| 🔵 CompTIA Network+ (N10-008) | CompTIA | ✅ Completed |
-| 🟠 AWS Academy Graduate — Cloud Architecting | Amazon Web Services | ✅ Completed |
-| 🟣 Cybersecurity Analyst Job Simulation | Tata Group / Forage | ✅ Completed |
-
----
-
-## 📄 IEEE Publication
-
-> **AlertSphere: Alerting About Disasters and Ensuring Safety Using AI**  
-> Nayana B.P., K.S. Prakruthi, Ananya Rekha Ashok, **Sangamesh Girish Dandin**, Tanveer Akhlaque Ahmed  
-> IEEE ICAMIDA 2025 · Aurangabad, India  
-> 🔗 [DOI: 10.1109/ICAMIDA64673.2025.11209472](https://doi.org/10.1109/ICAMIDA64673.2025.11209472)
-
----
-
-## 🤝 Let's Connect
-
-I'm actively looking for **internships and part-time roles** in Dublin (AI/ML & Cybersecurity, Sep 2026 onwards). If you're building something at the edge of AI and security — let's talk.
+<!-- ====================== CONTRIBUTION SNAKE ====================== -->
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-00ff88?style=for-the-badge)](https://sangamesh-dev.github.io/)
-[![Resume](https://img.shields.io/badge/📄%20Resume-Download-blue?style=for-the-badge)](https://sangamesh-dev.github.io/Sangamesh_Dandin_Resume.pdf)
-[![Email](https://img.shields.io/badge/📧%20Email-sangameshs2003@gmail.com-D14836?style=for-the-badge)](mailto:sangameshs2003@gmail.com)
-
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=Sangamesh-dev&icon=0&color=3)](https://visitcount.itsvg.in)
+<img src="https://raw.githubusercontent.com/Sangamesh-dev/Sangamesh-dev/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=80&section=footer" width="100%"/>
+---
+
+<!-- ====================== CURRENT FOCUS ====================== -->
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - Temporal Graph Neural Networks (GraphSAGE / GAT)
+  - Advanced Active Directory attack & detection paths
+  - Production MLOps & model serving at scale
+
+building:
+  - "AI-Driven Detection of Lateral Movement in Active Directory" (MSc Thesis)
+  - Automated bug-bounty hunting workflows (Claude Code MCP)
+  - Full-stack AI security tooling
+
+exploring:
+  - Agentic LLM systems & multi-model orchestration
+  - Adversarial ML & prompt-injection defense
+  - Graph-based threat detection (EULER benchmark)
+
+open_to:
+  - AI / ML Engineering roles
+  - Security & Software Engineering roles
+  - Graduate programmes & internships (Dublin / EU / Remote)
+```
+
+---
+
+<!-- ====================== CONNECT ====================== -->
+## 🤝 Connect
+
+<div align="center">
+
+<a href="mailto:sangameshs2003@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sangamesh-girish-dandin-553b45247/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Sangamesh-dev">
+  <img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://sangamesh-dev.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<!-- ====================== FOOTER ====================== -->
+<div align="center">
+
+> *"Engineering systems where artificial intelligence and security meet — built to ship, designed to defend."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=12,17,20,24&section=footer&reversal=true" />
+
+</div>
