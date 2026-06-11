@@ -353,7 +353,7 @@ Delivered multiple applied ML projects spanning computer vision, NLP, and predic
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sangamesh-dev&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sangamesh-dev&show_icons=true&hide_border=true&rank_icon=percentile&show=reviews,discussions_started,prs_merged&title_color=8B5CF6&icon_color=6D28D9&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
